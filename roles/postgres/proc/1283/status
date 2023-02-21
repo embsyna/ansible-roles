@@ -1,0 +1,17 @@
+Name:	bash
+State:	S (sleeping)
+Tgid:	1283
+Pid:	1283
+PPid:	1
+Uid:	197609 197609 197609 197609
+Gid:	197609 197609 197609 197609
+VmSize:	    7616 kB
+VmLck:	       0 kB
+VmRSS:	   11712 kB
+VmData:	    3392 kB
+VmStk:	       0 kB
+VmExe:	       0 kB
+VmLib:	    4800 kB
+SigPnd:	0000000200000000
+SigBlk:	FFFFFFFF00000000
+SigIgn:	0000000000000000
